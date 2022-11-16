@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dbaeza94
 - 👀 I’m interested in Data universe
 - 🌱 I’m currently learning Data Science from scratch related to Health, Tech(general propuse) and Finance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me diego.baeza.h@gmail.com
+- 📫 How to reach me diego.baeza.h@gmail.com 
 
 <!---
 Dbaeza94/Dbaeza94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
